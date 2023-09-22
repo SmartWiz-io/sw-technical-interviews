@@ -19,15 +19,16 @@
 2. Make sure they look clean and polished! 😎
 
 ### Example Responses
-• "Hi there! How can I help you today?" 👋 \
-• "I'm sorry to hear you're having issues. Could you describe the problem in more detail?" 😟 \
-• "Thank you for using our platform! Let me look into this issue and get back to you shortly." 🕵️‍♀️
+
+1. "Hi there! How can I help you today?" 👋
+2. "I'm sorry to hear you're having issues. Could you describe the problem in more detail?" 😟
+3. "Thank you for using our platform! Let me look into this issue and get back to you shortly." 🕵️‍♀️
 
 ## Notes
-• Use professional and friendly language in the chatbot responses. \
-• Include emojis to add personality. 😄 \
-• Let me know if you have any other questions! \
-• I'm happy to clarify these integration steps. 😀
+1. Use professional and friendly language in the chatbot responses.
+2. Include emojis to add personality. 😄
+3. Let me know if you have any other questions!
+4. I'm happy to clarify these integration steps.
 
 
 # Running the App
