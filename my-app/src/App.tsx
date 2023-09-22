@@ -1,6 +1,7 @@
 // src/App.tsx
 
 import styled from 'styled-components'
+import ChatButton from './components/ChatButton'
 
 const AppContainer = styled.div`
   display: flex;
@@ -19,6 +20,7 @@ export default function App() {
   return (
     <AppContainer>
       <AppTitle>Welcome to My App!</AppTitle>
+      <ChatButton />
     </AppContainer>
   )
 }
