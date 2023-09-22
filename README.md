@@ -28,3 +28,38 @@
 • Include emojis to add personality. 😄 \
 • Let me know if you have any other questions! \
 • I'm happy to clarify these integration steps. 😀
+
+
+# Running the App
+
+To start the development server:
+
+```
+cd my-app
+```
+
+```
+npm run dev
+```
+
+This will run the Vite development server at `http://localhost:3000`. 
+
+The page will reload when you make changes to the code. You will see any lint errors in the console.
+
+Some things to try:
+
+- Make edits to App.tsx to customize the content
+- Add new pages by creating `.tsx` files under `src/pages` 
+- Install and import new components from npm
+
+## Production Build 
+
+To create a production build:
+
+```
+npm run build
+```
+
+This will build the app for production to the `dist` folder. 
+
+The build is minified, optimized, and your app is now ready
